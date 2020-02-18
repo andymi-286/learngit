@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 [fix merge]: Creating a new branch is quick and simple.
 Try --no-off
+Git is a free software ...
